@@ -1,0 +1,23 @@
+.icon_shape {
+  border-radius: 24% 76% 57% 43% / 20% 45% 55% 80%;
+}
+
+.icon_shape_inside {
+  border-radius: 0% 100% 34% 66% / 0% 68% 32% 100%;
+}
+
+.text-sh {
+  text-shadow: 5px 5px 30px #171717;
+}
+
+.image-sh {
+  filter: drop-shadow(-20px -20px 0.75rem #272727);
+}
+
+.tools_shape {
+  border-radius: 64% 36% 85% 15% / 50% 60% 40% 50%;
+}
+
+.tools_shape_2 {
+  border-radius: 64% 36% 85% 15% / 30% 73% 27% 70%;
+}
